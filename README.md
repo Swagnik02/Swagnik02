@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swagnik</h1>
 <h3 align="center">Flutter App Developer from IIIT BHUBANESWAR</h3>
-![android dev](https://github.com/Swagnik02/Swagnik02/assets/91018814/1b4a3882-c83f-4ea6-ad7f-f3078b4d1f9b)
+<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagnik02&label=Profile%20views&color=0e75b6&style=flat" alt="swagnik02" /> </p>
 
