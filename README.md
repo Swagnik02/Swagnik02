@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Swagnik02/Swagnik02/main/android%20dev.png)(https://github.com/Swagnik02)]
+[![MasterHead](https://raw.githubusercontent.com/Swagnik02/Swagnik02/main/android%20dev.png)](https://github.com/Swagnik02)
 <h1 align="center">Hi 👋, I'm Swagnik</h1>
 <h3 align="center">Flutter App Developer from IIIT BHUBANESWAR</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvOTE0dGZ5ZHl1Zms2MWJvODlhZzl2ZXJvaXMyOXVlZG43cWNpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
