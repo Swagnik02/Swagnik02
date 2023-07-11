@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swagnik</h1>
 <h3 align="center">Flutter App Developer from IIIT BHUBANESWAR</h3>
-<img align="right" alt="Coding" width="400" src="[[https://giphy.com/embed/2IudUHdI075HL02Pkk](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk)">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/2IudUHdI075HL02Pkk](https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk)">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swagnik02" alt="swagnik02" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
