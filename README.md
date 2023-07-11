@@ -18,9 +18,11 @@
 
 - 📫 How to reach me **swagnik1234@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFhHbU3_vw/oC7-dsTEektDuKNtmtqUSw/view?mode=prototype](https://www.canva.com/design/DAFhHbU3_vw/oC7-dsTEektDuKNtmtqUSw/view?mode=prototype)
+- 📄 Know about my experiences [resume/cv](https://www.canva.com/design/DAFhHbU3_vw/oC7-dsTEektDuKNtmtqUSw/view?mode=prototype)
 
 - ⚡ Fun fact **I play Valorant !!**
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swagnik02" alt="swagnik02" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
