@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Swagnik02/Swagnik02/main/android%20dev.png)](https://bio.site/aztecks02)
+[![MasterHead](https://raw.githubusercontent.com/Swagnik02/Swagnik02/main/thumb.png)](https://bio.site/aztecks02)
 
 <h1 align="center">Its Swagnik here 👆 </h1>
 <h3 align="center">Tech explorer, coding adventurer
