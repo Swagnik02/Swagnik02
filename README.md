@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Swagnik02/Swagnik02/main/android%20dev.png)](xyz.io)
+[![MasterHead](https://raw.githubusercontent.com/Swagnik02/Swagnik02/main/android%20dev.png)]
 
 <h1 align="center">Hi 👋, I'm Swagnik</h1>
 <h3 align="center">Flutter App Developer from IIIT BHUBANESWAR</h3>
