@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **swagnik1234@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFhHbU3_vw/oC7-dsTEektDuKNtmtqUSw/view?mode=prototype](https://www.canva.com/design/DAFhHbU3_vw/oC7-dsTEektDuKNtmtqUSw/view?mode=prototype)
+- 📄 Know about my experiences [Resume/Cv](https://www.canva.com/design/DAFhHbU3_vw/oC7-dsTEektDuKNtmtqUSw/view?mode=prototype)
 
 - ⚡ Fun fact **I play Valorant !!**
 
