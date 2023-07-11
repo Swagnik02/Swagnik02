@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/hi0Qf82.png)](https://bio.site/aztecks02)
 
-<h1 align="center">Its Swagnik here 👆 </h1>
+<h1 align="center">It's Swagnik here 👆 </h1>
 <h3 align="center">Tech explorer, coding adventurer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lvOTE0dGZ5ZHl1Zms2MWJvODlhZzl2ZXJvaXMyOXVlZG43cWNpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagnik02&label=Profile%20views&color=0e75b6&style=flat" alt="swagnik02" /> </p>
